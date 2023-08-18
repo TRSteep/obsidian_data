@@ -18,7 +18,7 @@
 ## Работа с текущим репозитарием 
 - Diff
 	- `git diff`
-- Push
+- Pull
 	- `git pull`
 - Добавление файла-ов
 	- `git add .`
@@ -73,4 +73,5 @@
 	- `git rm --cached <имя-файла>`
 		- удаление файла
 	- `git rm -r --cached .`
+		-  `git rm -r --cached . -f`
 		- удаление всего кеша
