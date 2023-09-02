@@ -26,7 +26,7 @@
 	- WGET
 		- `wget https://raw.githubusercontent.com/Angristan/openvpn-install/master/openvpn-install.sh -O debian-11-vpn-server.sh`
 		- `chmod -v +x debian-11-vpn-server.sh`
-		- `sudo ./debian-11-vpn-server.sh`
+		- `sudo ./openvpn-install.sh`
 	- Настройки
 		- IPv6
 			- y
@@ -61,6 +61,8 @@
 - Статус
 	- `sudo systemctl status openvpn`
 	- `sudo ss -tupln | grep openvpn`
+	- `lsof -i tcp`
+		- просмотр подключений
 	- `nano /etc/openvpn/server.conf`
 	- IP
 		- `dig TXT +short o-o.myaddr.l.google.com @ns1.google.com`

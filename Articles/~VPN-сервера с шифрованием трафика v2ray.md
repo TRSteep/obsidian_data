@@ -1,3 +1,6 @@
+Сработал скрипт [Marzban](obsidian://open?vault=Obsidian%20Vault&file=ShadowSocks%20%D0%BE%D1%82%20Marzban%20(%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F))
+
+Ручная настройка - не сработала
 ## Server 
 #Linux #debian #vpn
 - `apt update && apt upgrade`
