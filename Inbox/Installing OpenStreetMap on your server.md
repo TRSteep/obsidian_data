@@ -1,4 +1,4 @@
-#map 
+#map #osm 
 ## Установка OpenStreetMap Nominatim
 - https://habr.com/ru/articles/259667/
 - Для одной страны нужно примерно 2 cores, 7 GB RAM, 100 GB SSD

@@ -1,4 +1,4 @@
-#xen 
+#xen #hypervisor 
 
 Install
 - https://xcp-ng.org/
