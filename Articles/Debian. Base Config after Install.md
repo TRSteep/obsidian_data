@@ -29,7 +29,7 @@
 - [Debian. Network](Debian.%20Network.md)
 
 # SSH
-- [Debian настройка SSH подключения (+ssh key)](Debian%20настройка%20SSH%20подключения%20(+ssh%20key).md)
+- [Debian SSH connection setup (+ssh key)](Debian%20SSH%20connection%20setup%20(+ssh%20key).md)
 
 # Remote (VNC)
 - [Linux Remote VNC](Linux%20Remote%20VNC.md)

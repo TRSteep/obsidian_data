@@ -1,4 +1,4 @@
-#vpn
+#vpn 
 Разработчики XRay подготовили скрипт, который автоматически скачивает XRay под используемую систему и создает systemd-юнит
 - https://github.com/XTLS/Xray-install
 - https://xtls.github.io/en/document/level-0/ch07-xray-server.html#_7-2-%E5%AE%89%E8%A3%85-xray
