@@ -4,7 +4,10 @@
 	* Docker in Action
 * Сайт
 	* docker.com
+<<<<<<< HEAD
 	* https://1cloud.ru/blog/docker_start
+=======
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 
 ---
 * Первые шаги

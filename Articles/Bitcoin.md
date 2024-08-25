@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #bitcoin #app #finance 
 
 # Trade
@@ -179,3 +180,16 @@
 	- Этот аппаратный кошелек, оснащенный такими передовыми функциями, как защищенный чип и двухфакторная аутентификация, является одним из лучших в своем классе.
 - Trezor 
 
+=======
+#bitcoin
+Windows App
+- Browser Plugin
+	- MetaMask
+
+Android App
+- MetaMask
+- BitPay
+- Coinomi
+- Electrum
+- Exodus
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7

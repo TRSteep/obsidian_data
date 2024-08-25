@@ -1,0 +1,52 @@
+#vpn #shadowsocs #vless #vmess #debian #v2ray
+- Marzban GIT https://github.com/Gozargah/Marzban
+- Install
+	- https://openode.ru/topic/525-ustanavlivaem-marzban-kak-prostaya-zamena-wireguard-bystryy-gayd/
+	- https://github.com/Gozargah/Marzban#installation-guide
+	- Update
+		- ``apt update && apt upgrade``
+		- `apt install sudo`
+		- `apt install curl`
+	- AUTO Install
+		- `sudo bash -c "$(curl -sL https://github.com/Gozargah/Marzban-scripts/raw/master/marzban.sh)" @ install`
+	- Создаем пользователя web админа
+		- `marzban cli admin create --sudo`
+- Config
+	- Идем в панель: 
+		- IP:8000/dashboard/
+		- Создаем пользователя: Create new user и выбираем протоколы
+		- Далее скидываем ссылку или QR код
+- Clients (Клиенты VPN shadowsocks)
+	- https://habr.com/ru/articles/728696/
+	- Android
+		- **V2RayNG**
+			- https://github.com/2dust/v2rayNG/releases
+		- Nekobox Android
+			- https://play.google.com/store/apps/details?id=moe.nb4a
+			- https://github.com/MatsuriDayo/NekoBoxForAndroid/releases
+	- Windows
+		- v2rayN
+			- https://github.com/2dust/v2rayN/releases
+		- **Invisible Man XRay**
+			- https://github.com/InvisibleManVPN/InvisibleMan-XRayClient/releases
+	- Windows + Linux
+		- Nekoray / Nekobox
+			- https://github.com/MatsuriDayo/nekoray/releases
+			- `cd /opt/nekoray/`
+			- `chmod a+x ./nekoray`
+			- `sudo ./nekoray`
+	- Linux
+		- v2rayA
+			- https://github.com/v2rayA/v2rayA/releases
+			- bash
+				- `sudo apt update`
+				- `sudo rm /etc/apt/preferences.d/nosnap.pref`
+				- `sudo apt install snapd`
+				- `sudo snap install v2raya`
+
+`
+
+---
+TG bot
+- telebot
+	- https://github.com/mmdchnar/marzban-telebot

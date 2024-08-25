@@ -14,17 +14,22 @@ VNC
 
 RDP
 - Linux
+<<<<<<< HEAD
 	- xRDP
 		- Поднимаете RDP-сервер под Linux с десятком X-сессий
 		- `sudo apt install xrdp`
 	- clients
 		- Remmina
+=======
+	- `sudo apt install xrdp`
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 
 SSH
 - Linux
 	- SSH server
 		- `sudo apt-get install openssh-server`
 		- `sudo systemctl enable ssh --now`
+<<<<<<< HEAD
 	- x2go (запускать интерфейсы на локальной машине, а ПО удаленно)
 		- Server (работает с xfce4)
 			- `sudo apt-key adv --recv-keys --keyserver keys.gnupg.net E1F958385BFE2B6E`
@@ -41,5 +46,13 @@ SSH
 		- ssh IP
 		- ssh USER@IP
 		- `ssh user@wonderland.local/system@10.10.0.50 -p 2200`
+=======
+- Windows
+	- Putty SSH
+		- https://putty.org/
+	- PowerShell
+		- ssh IP
+		- ssh USER@IP
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 	- WinSCP
 		- https://winscp.net/eng/download.php

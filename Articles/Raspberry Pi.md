@@ -7,6 +7,7 @@
 	- [Balena Etcher](https://www.balena.io/etcher)
 	- https://github.com/home-assistant/operating-system/releases/download/10.4/haos_rpi4-64-10.4.img.xz
 
+<<<<<<< HEAD
 #networkchuck #watchthis 
 https://www.youtube.com/watch?v=km81ph7pZz8
 - Pentest
@@ -19,3 +20,6 @@ https://www.youtube.com/watch?v=km81ph7pZz8
 - poisontap
 	- https://github.com/samyk/poisontap
 	- hijacks all Internet traffic from the machine
+=======
+
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7

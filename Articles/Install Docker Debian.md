@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 #docker #linux #debian 
 # Initial Server
 
 # Pre-Install Docker
+=======
+# Initial Server
+
+# Pre-Install Docker
+#docker 
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 -  install packages to allow apt to use a repository over HTTPS
 	- `sudo apt update && sudo apt upgrade`
 	- `sudo apt-get install ca-certificates curl gnupg`
@@ -24,6 +31,9 @@ echo \
 
 ## Test Docker
 - `sudo docker run hello-world`
+<<<<<<< HEAD
 
 # Install Docker Compose
 - `sudo apt-get install docker-compose`
+=======
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7

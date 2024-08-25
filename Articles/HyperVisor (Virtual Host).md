@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #virtual #hypervisor #vmware #citrix #xen #kvm #list
+=======
+#virtual #hypervisor #vmware #citrix #xen #kvm
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 - ### VMware
     - VMware ESXi (vSphere Hypervisor)
         - https://customerconnect.vmware.com/en/evalcenter?p=free-esxi7
@@ -13,7 +17,10 @@
         - open-source versions: community, standard, and enterprise
     - Xen Project
         - https://xenproject.org/xen-project-archives/
+<<<<<<< HEAD
         - https://github.com/xcp-ng/xenadmin/releases
+=======
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
         - open-source software platform or Linux hypervisor. It supports virtualization for x86, x86_64, IA64, ARM, and other CPU architectures
         - guest operating systems such as Windows, Linux, BSD, and its other versions
     - Проброс топовых GPU внутрь гостя GPU Pass-through
@@ -23,7 +30,10 @@
 - ### Red Hat KVM
     - Недорогой и лояльный к аппаратным ресурсам KVM
     - ### Proxmox Virtual Environment
+<<<<<<< HEAD
         - https://www.proxmox.com/en/downloads
+=======
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
         - был разработан для управления KVM
 - ### Linux KVM
 	- only linux

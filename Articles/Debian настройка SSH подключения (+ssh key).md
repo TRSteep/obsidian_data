@@ -11,15 +11,22 @@
 ## Установка
 - `apt update && apt upgrade`
 - `sudo apt install openssh-server`
+<<<<<<< HEAD
 - `sudo systemctl start ssh`
 	- or `sudo reboot`
+=======
+- `sudo reboot`
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 - Просмотр состояния
 	- `sudo systemctl status ssh`
 
 ## Настройка подключения по паролю
 - Конфигурация
 	- `sudo nano /etc/ssh/sshd_config`
+<<<<<<< HEAD
 	- `sudo systemctl restart ssh`
+=======
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 - Клиент
 	- `ssh [User]@[IP]`
 	- `ssh [User]@[IP] -p 22`
@@ -36,11 +43,14 @@
 		- Firewall change port
 			- `sudo ufw delete allow http`
 			- `sudo ufw allow 34226
+<<<<<<< HEAD
 	- Создание отдельного пользователя для ssh
 		- `adduser USER`
 		- `usermod -aG sudo USER`
 		- `nano /etc/sudoers`
 			- `USER ALL=(ALL)  ALL`
+=======
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 	- Логин под root
 		- Разрешен
 			- `PermitRootLogin yes`
@@ -48,6 +58,7 @@
 			- `PermitRootLogin no
 		- Только по SSH ключам
 			- `PermitRootLogin prohibit-password`
+<<<<<<< HEAD
 				- *defualt Yes*
 			- `PasswordAuthentication no`
 	- Черные списки
@@ -106,3 +117,32 @@
 			- `putty`
 		- ssh
 			- `ssh root@185.104.114.90 -p 150`
+=======
+- `sudo systemctl restart ssh`
+
+## Настройка подключения по SSH ключам
+- `sudo nano /etc/ssh/sshd_config`
+	- `PasswordAuthentication no`
+		- `ChallengeResponseAuthentication no`
+		- `UsePAM no`
+	- `sudo systemctl restart ssh`
+	- 
+### Клиент Windows
+http://www.chiark.greenend.org.uk/%7Esgtatham/putty/download.html
+- запустить PuTTYgen и нажать кнопку «Generate»
+	- Для ускорения генерации необходимо хаотично передвигать курсор мыши.
+- Сохранение публичного ключа
+	- ![[3--1-.png|300]]
+	- **WinSCP**
+	-  Подключится к серверу по SSH
+	- Загрузить SSH ключ
+- Сохранение приватного ключа
+	- ![[4.png|300]]
+- Добавление приватного ключа в PuTTY
+	- Connection -> SSH -> Auth
+		- Путь к секретному файлу с SSH ключом
+	- ![[6.png|300]]
+
+### Клиент linux
+
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7

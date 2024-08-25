@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #debian #update
 ## Location
 - Edit sources
@@ -5,6 +6,12 @@
 - Disable DVD sources
 	- comment cdrom
 	- `#deb cdrom`
+=======
+#debian
+## Location
+- Edit sources
+	- `nano /etc/apt/sources.list`
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 - Typical sources for debian 12
 ```
 deb ftp.am.debian.org/debian/ bookworm main contrib non-free
@@ -13,6 +20,7 @@ deb-src ftp.am.debian.org/debian/ bookworm main contrib non-free
 - add sources with IP from bash
 	- `echo "deb http://128.30.2.26/debian testing main contrib" > /etc/apt/sources.list`
 
+<<<<<<< HEAD
 ### Full config
 ```bash
 deb http://deb.debian.org/debian/ bookworm main contrib non-free-firmware
@@ -27,6 +35,8 @@ deb http://deb.debian.org/debian/ bookworm-updates main non-free-firmware
 deb-src http://deb.debian.org/debian/ bookworm-updates main non-free-firmware
 ```
 
+=======
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 ---
 # Описание
 Содержимое этого файла обычно имеет следующий формат

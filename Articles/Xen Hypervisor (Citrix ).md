@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #virtual #hypervisor #os #iso #xen 
+=======
+#virtual #hypervisor #os #iso
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 ### Info
 - https://habr.com/ru/articles/599213/
 - https://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-1/
@@ -41,6 +45,7 @@
 
 ---
 ## Work
+<<<<<<< HEAD
 - VM
 	- Список виртуальных машин (поиск UID)
 		- `xe vm-list`
@@ -71,3 +76,9 @@
 Backup
 - https://habr.com/ru/articles/317356/
 - https://tecadmin.net/backup-running-virtual-machine-in-xenserver/
+=======
+- Список виртуальных машин (поиск UID)
+	- `xe vm-list`
+- Автогрузка машин
+	- `xe vm-param-set uuid=UID other-config:auto_poweron=true`
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7

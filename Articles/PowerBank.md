@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #diy #hardware 
+=======
+>>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 - https://habr.com/ru/companies/mvideo/articles/754980/
 	- LiFePo4 аккумулятора емкостью по 20Ah
 	- LiFePo4 4S BMS
