@@ -32,7 +32,7 @@
 - [Debian SSH connection setup (+ssh key)](Debian%20SSH%20connection%20setup%20(+ssh%20key).md)
 
 # Remote (VNC)
-- [Linux Remote VNC](Linux%20Remote%20VNC.md)
+- [Linux Remote VNC](Inbox/Linux%20Remote%20VNC.md)
 
 # Security
 ## Firewall

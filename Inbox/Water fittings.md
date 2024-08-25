@@ -1,4 +1,4 @@
-
+#hardware #water
 Valtec
 https://valtec.ru/catalog/truboprovodnaya_armatura/
 

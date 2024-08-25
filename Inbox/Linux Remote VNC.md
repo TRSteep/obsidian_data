@@ -1,3 +1,4 @@
+#remote #linux 
 # tightvncserver
 ## Install
 - `sudo apt install -y tightvncserver`
