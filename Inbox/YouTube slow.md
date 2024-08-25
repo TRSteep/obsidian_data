@@ -1,4 +1,4 @@
-
+#software 
 - https://habr.com/ru/articles/831846/
 	- Я победил замедление YouTube
 - https://habr.com/ru/articles/833564/

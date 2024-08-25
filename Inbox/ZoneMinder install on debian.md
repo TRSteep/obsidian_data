@@ -1,4 +1,4 @@
-#dvr #linux  #debian 
+#dvr #linux #debian 
 
 # Install 
 - MariaDB

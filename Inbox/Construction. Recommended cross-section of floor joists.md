@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#home 
+#home #build 
 
 =======
 >>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7

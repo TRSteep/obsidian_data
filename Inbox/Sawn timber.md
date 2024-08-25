@@ -1,4 +1,4 @@
-#buld 
+#buld #list
 - Доска обрезная
 	- https://avdon-stroy.ru/strojmaterialy/pilomaterialy/doska_obreznaya/
 	- https://www.ok-stroy.ru/catalog/category/doska-obreznaja-estestvennoj-vlazhnosti-1-sort/
