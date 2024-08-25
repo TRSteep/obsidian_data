@@ -1,0 +1,35 @@
+#doh #dns
+- Lists of public DNSCrypt and DoH servers
+	- Interactive list of public DNS servers:
+		- https://github.com/curl/curl/wiki/DNS-over-HTTPS
+		- https://dnsprivacy.org/public_resolvers/#dns-over-https-doh
+		- https://adguard-dns.io/kb/general/dns-providers/
+		- https://dnscrypt.info/public-servers
+	- Interactive map of public DNS servers:
+		- https://dnscrypt.info/map
+	- List from block
+		- https://github.com/oneoffdallas/dohservers/blob/master/list.txt
+		- https://forum.nxfilter.org/tips-tricks/2723-list-of-dns-over-https-doh-server-ips-to-be-blocked-by-your-firewall
+- Standard DNS:
+	- Google
+		- https://dns.google/dns-query
+	- OpenDNS
+		- https://doh.opendns.com/dns-query
+	- Cloudflare
+		- https://1.1.1.1/dns-query
+		- https://dns.cloudflare.com/dns-query
+	- quad9
+		- https://dns.quad9.net/dns-query
+		- https://dns10.quad9.net/dns-query
+		- https://dns11.quad9.net/dns-query
+	- https://doh.libredns.gr/dns-query
+	- https://dns-unfiltered.adguard.com/dns-query
+	- https://dns.switch.ch/dns-query
+	- https://dns.cloud88.com.au/dns-query
+- FamilyShield (blocks adult content):
+	- https://doh.familyshield.opendns.com/dns-query
+	- https://family.adguard-dns.com/dns-query
+	-  https://family.cloudflare-dns.com/dns-query
+- Block Malware
+	- https://security.cloudflare-dns.com/dns-query
+	- https://doh.libredns.gr/noads

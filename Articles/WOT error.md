@@ -1,0 +1,85 @@
+#wot 
+- https://eu.wargaming.net/support/ru/products/wot/article/16143/
+- https://eu.wargaming.net/support/ru/products/wot/article/34935/
+	- 3 типа решения
+- https://www.youtube.com/watch?v=qUz-dTZMeuc
+- Error
+	- Clan
+		- Loading content...
+	- Store
+		- Data temporarily unavailable
+	- Tournaments
+		- Error Loading Data
+- Fix
+	- Wargaming Center
+		- World of Tanks
+			- "Check and Repair"
+			- https://eu.wargaming.net/support/ru/products/wot/article/15285/
+	- Settings
+		- Graphics > Disable browser hardware acceleration
+	- win+s > graphics settings > browse
+		- cef_browser_process
+		- cef_subprocess
+		- Option > Hight performance
+	- DNS
+		- https://eu.wargaming.net/support/ru/products/wot/article/15296/
+			- https://dl-support.gcdn.co/wot/ru/KnowledgeBase/DNS/reset_dns.zip
+		- `ipconfig /flushdns`
+		- `ipconfig /registerdns`
+		- `netsh winsock reset`
+		- сменить DNS на!
+			- 8.8.8.8
+			- 8.8.4.4
+			- 1.1.1.1
+			- 9.9.9.9
+	- clear in `C:\Games\World_of_Tanks_EU`
+		- mods
+		- res_mods
+	- clear cach
+		- кеш игры бат файлом
+			- https://eu.wargaming.net/support/ru/products/wot/article/34385/
+			- https://dl-support.gcdn.co/wot/ru/updates/wot_cache.zip
+		- удалить папку `%appdata%\wargaming.net\WorldOfTanks`
+			- действие удалит настройки клиента
+		- отдельные файлы в папке
+			- Preferences.xml – resets your game settings (graphics, audio, controls and so on.)
+				- https://dl-support.gcdn.co/wot/ru/updates/wot_pref.zip
+			- Custom_data – forces a client side refresh of your clan emblems
+			- The rest – resets the game cache
+		- [WOT_Clean cache.bat](wot_cache.bat)
+	- Firewall
+		- https://eu.wargaming.net/support/ru/products/wot/article/15287/
+			- https://dl-support.gcdn.co/wot/ru/Temp/Firewall_wot.zip
+		- Ports
+			- WorldOfTanks.exe
+				- UDP-диапазон с 32800 по 32900 и UDP-диапазон с 20010 по 20020, UDP-диапазон с 42800 до 43000;
+				- UDP-порт 53;
+				- TCP-диапазон с 50010 по 50014;
+				- TCP-порты 80, 443, 5222, 5223.
+				- voice chat
+					- UDP-диапазон с 12000 по 29999;
+					- UDP-порты 5060, 5062, 3478, 3479, 3432, 30443
+			- network
+				- 92.223.19.1–92.223.19.254;
+				- 92.223.8.1–92.223.8.254;
+				- 92.223.1.1–92.223.1.254;
+				- 92.223.12.1–92.223.12.254;
+				- 92.223.18.1–92.223.18.254;
+				- 92.223.4.1–92.223.4.254;
+				- 92.223.10.1–92.223.10.254;
+				- 92.223.14.1–92.223.14.254;
+				- 92.223.36.1–92.223.36.254;
+				- 92.223.38.1–92.223.38.254;
+				- 185.12.240.1–185.12.240.254;
+				- 185.12.241.1–185.12.241.254;
+				- 185.12.242.1–185.12.242.254;
+				- 88.204.200.192–88.204.200.254
+				- 239.255.255.250
+			- cmd
+				- netsh winsock reset
+				- 
+- Support
+	- WG Check
+		- https://eu.wargaming.net/support/ru/products/wot/article/35466/
+	- Support
+		- https://eu.wargaming.net/support/ru/products/wot/

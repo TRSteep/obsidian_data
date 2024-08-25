@@ -1,0 +1,5 @@
+- `inetcpl.cpl`
+- Select Security tab.
+- Under Trusted Sites, click on Sites button.
+- Add site
+	- ![|400](Pasted%20image%2020240204180150.png)

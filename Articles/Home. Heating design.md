@@ -1,0 +1,45 @@
+#home #software 
+- ### Программы проектирования всей системы
+	- AutoCAD
+	- Autodesk Revit MEP
+	- nanoCAD ВК
+		- https://nanocad.nanosoft.pro/products/nanocad_vk/download/
+- ### Программы по расчету систем отопления
+	- Описание
+		- рассчитывает теплый пол: теплоотдачу, гидравлику, делает чертежи
+		- рассчитывает радиатор: подбирает размер, считает гидравлику, делает чертежи
+		- делает выгрузку спецификации и расчетов
+	- UPONOR
+	- REHAU
+	- TECE
+	- Oventrop
+	- MEIBES
+	- Valtec
+		- VALTEC C.O. 3.8. ПРОГРАММА ДЛЯ ПРОЕКТИРОВАНИЯ СИСТЕМ ОТОПЛЕНИЯ
+	- 
+	- Программы для проектирования
+		- Графическая программа Insolo H2O 1.6
+			- http://www.egoing.ru/upload/setuph2o.exe
+	- planner5d.com
+- ### Вспомогательные расчетные программы
+	- Описание
+		- Например, расчет объема расширительного бака
+	- 3D-БАЗА МОДЕЛЕЙ ТРУБ И ФИТИНГОВ FV-PLAST
+		- https://fv-plastic.ru/proektirovshchikam.html
+	- Reflex
+	- https://sapr.lineika.su/
+	- ПРИМЕР РАСЧЕТА НАСТРОЕК ОТОПИТЕЛЬНОГО МОДУЛЯ КВАРТИРНЫХ СТАНЦИЙ
+		- https://valtec.ua/ru/primer-rascheta-nastroek-otopitelnogo-modulya-kvartirnyh-stantsij-2/
+- ### Онлайн-базы типовых решений котельных от производителей
+	- Viessmann
+		- Браузер схем
+			- https://www.viessmann-schemes.com/schematics/?lang=ru&country=RU
+			- 
+		- https://www.viessmann-us.com/en/services/viessmann-apps.html
+- Компьютерная программа RAUCAD для расчета и проектирования инженерных систем
+	- https://www.rehau.com/kz-kk/pro/inzheneriya/software-tools/raucad
+- Программное обеспечение Uponor 
+	- https://soft.abok.ru/themes/sample/pictures/PO/Uponor_HSE.pdf
+- http://e.informer.com/s/instalsoft.com/en
+- HSE-therm / heat&energy RU
+	- https://uponor-hse-therm-heat-energy-ru.software.informer.com/

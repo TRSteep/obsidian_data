@@ -1,0 +1,92 @@
+#vpn 
+## Info
+- https://lyrahosting.com/how-to/how-to-setup-an-openvpn-server-on-ubuntu-18-0420-0422-04-lts/
+
+## Install
+- Подготовка системы
+	- `apt update && apt upgrade`
+	- `sudo apt update && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo apt autoclean`
+	- `sudo reboot`
+- Выяснение IP
+	- `ip a`
+	- `ip address show up`
+- FireWall
+	- `sudo apt-get install ufw`
+	- Open Ports
+		- `sudo ufw allow 22`
+		- `sudo ufw allow 80`
+		- `sudo ufw allow 443`
+	- `sudo ufw enable`
+	- `sudo ufw status`
+- Установка
+	- CURL
+		- `sudo apt install curl -y && sudo curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh && sudo chmod +x openvpn-install.sh`
+			- `curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh`
+			- `chmod +x openvpn-install.sh`
+		- `sudo ./openvpn-install.sh`
+	- WGET
+		- `wget https://raw.githubusercontent.com/Angristan/openvpn-install/master/openvpn-install.sh -O debian-11-vpn-server.sh`
+		- `chmod -v +x debian-11-vpn-server.sh`
+		- `sudo ./openvpn-install.sh`
+	- Настройки
+		- IPv6
+			- y
+		- OpenVPN Port
+			- 1194
+		- Protocol
+			- UPD
+		- DNS
+			- Cloudflare
+		- compression
+			- n
+		- customize encryption settings
+			- n
+- Добавление пользователей
+	- `./openvpn-install.sh`
+		- **ClientName**
+		- Pass or not Pass
+	- Копируем профили подключения в домашний каталог
+		- `cp *.ovpn /home/`
+	- Через Winscp подключится к серверу по SSH
+		-  `scp vivek@74.207.224.247:/home/ClientName.ovpn .`
+	- Скопировать сертификаты из папки `/home/`
+	- В папку `C:\Users\trsteep\OpenVPN\config`
+		- или импорт в самом приложении
+- Добавление FireWall
+	-  `sudo ufw allow 1194`
+- Управление службой
+	- `sudo systemctl start openvpn@server`
+	- `sudo systemctl stop openvpn@server`
+	- `sudo systemctl restart openvpn@server`
+	- `sudo systemctl status openvpn@server`
+- Статус
+	- `sudo systemctl status openvpn`
+	- `sudo ss -tupln | grep openvpn`
+	- `lsof -i tcp`
+		- просмотр подключений
+	- `nano /etc/openvpn/server.conf`
+	- IP
+		- `dig TXT +short o-o.myaddr.l.google.com @ns1.google.com`
+		- `sudo journalctl --identifier ovpn-server`
+## Клиенты
+- Android
+	- https://play.google.com/store/apps/details?id=de.blinkt.openvpn
+	- https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=en
+- Windows
+	- https://openvpn.net/index.php/download/community-downloads.html
+	- https://openvpn.net/index.php/open-source/downloads.html
+- Linux
+	- Elementory OS
+		- System Settings -> Network -> VPN. Click the "+", then in the window that pops up, click on "Add"
+			- "Import a Saved VPN connection". 
+	- SH
+		- `sudo apt install openvpn`
+		- `sudo cp -v ClientName.ovpn /etc/openvpn/client/`
+		- `sudo openvpn --client --config /etc/openvpn/client/ClientName.ovpn`
+		- AutoConnect
+			- `sudo systemctl start openvpn@client`
+	- Autoconnect
+		- GNOME Network-Manager is not able to automatically import OpenVPN config files with embedded certificates and keys
+		- https://gist.github.com/seebk/bb94a7fd70d4cc454aaa
+		- `sudo apt-get install python3 network-manager-openvpn-gnome`
+		- `python3 extract_ovpn_cert.py path/to/VPNCONFIG.ovpn`

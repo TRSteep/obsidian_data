@@ -1,0 +1,16 @@
+#network #test 
+- SpeedTest
+	- Internet
+	- iPerf
+		- https://iperf.fr/iperf-download.php#windows
+		- server
+			- `iPerf3 -s -p 7575`
+		- Public iPerf3 servers
+			- https://iperf.fr/iperf-servers.php
+			- `iperf3 -c paris.testdebit.info -p 9200`
+			- `iperf3 -c IP -p 7575`
+		- jPerf
+			- https://sourceforge.net/projects/jperf/
+		- Install on debian
+			- `sudo apt install -y iperf3`
+			- `iperf3 --version`

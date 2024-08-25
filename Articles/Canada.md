@@ -1,0 +1,296 @@
+#relocation #canada 
+
+## Top City
+- Ottawa (BC) 1m - Capital
+- Calgary (Alberta) 1.2m
+- Edmonton (Alberta) 1m
+- Montreal (Quebec) 1.7m
+- Victoria (BC) 0.1m
+- Winnipeg (Manitoba) 0.7m
+- Regina (Saskatchewan) 0.2m
+
+# Regions
+- ### ! Ontario (Возле США)
+	- Описание
+		- https://immigrant.today/canada/16060-ontario.htm
+		- Больше всего приезжих
+	- OINP
+		- https://immigrant.today/canada/11832-oinp.htm
+	- Central Canada
+	- Toronto (biggest) 2.7m
+		- дорогой город
+	- **Ottawa** (capital) 1m
+		- Частные дома и парки
+- ### ! British Columbia (West Coast, Ванкувер)
+	- Описние
+		- https://immigrant.today/canada/17012-british-columbia.htm
+		- Теплый климат
+	- BC PNP
+		- https://immigrant.today/canada/10493-bcpnp.htm
+	- Vancouver
+		- дорогой город
+	- Victoria
+		- Шикарная погода, почти нет снега
+- **! Alberta (Canadian Prairies, Калгари)**
+	- Описание
+		- https://immigrant.today/canada/17016-alberta.htm
+		- Солнечный район
+	- AAIP
+		- https://immigrant.today/canada/10472-aaip.htm
+		- **Calgary**
+		- **Edmonton**
+- Saskatchewan (Canadian Prairies, Центр)
+	- Описание
+		- https://immigrant.today/canada/16985-saskatchewan.htm
+	- SINP
+		- https://immigrant.today/canada/12671-sinp.htm
+	- Cities
+		- Regina
+- Manitoba (Canadian Prairies, Виннипег)
+	- Описание
+		- https://immigrant.today/canada/16980-manitoba.htm
+	- MPNP
+		- https://immigrant.today/canada/10854-mpnp.htm
+- ! Quebec (Central Canada) - нужен франц.
+	- Описание
+		- https://immigrant.today/canada/16311-quebec.htm
+		- Отдельная история с законами и знанием французского
+		- Иммиграция
+			- https://immigrant.today/canada/13675-quebec.htm
+	- Citys
+		- Montreal
+		- Quebec City
+- Prince Edward Island (Atlantic Canada, Остров, Киты)
+	- https://www.princeedwardisland.ca/en
+	- Описание
+		- https://immigrant.today/canada/17015-prince-edward-island.htm
+	- PEI PNP
+		- https://immigrant.today/canada/13547-peipnp.htm
+	- Ярмарка
+		- https://www.princeedwardisland.ca/en/information/office-of-immigration/international-recruitment-events
+- Nova Scotia (Atlantic Canada, Киты)
+	- https://novascotiaimmigration.com/
+	- Описание
+		- https://immigrant.today/canada/17002-nova-scotia.htm
+	- NSNP
+		- https://immigrant.today/canada/12921-nsnp.htm
+- Yukon (The North, Север)
+	- Описание
+		- https://immigrant.today/canada/16987-yukon.htm
+	- YNP
+		- https://immigrant.today/canada/13548-ynp.htm
+- Northwest Territories (The North, Север)
+	- Описние
+		- https://immigrant.today/canada/16986-northwest-territories.htm
+		- Nunavut (The North)
+			- Описание
+				- https://immigrant.today/canada/17018-nunavut.htm
+	- NTNP
+		- https://immigrant.today/canada/11989-ntnp.htm
+- Newfoundland and Labrador (Atlantic Canada, Северо-восток)
+	- https://www.gov.nl.ca/immigration-and-travel/
+	- Описание
+		- https://immigrant.today/canada/16993-newfoundland-and-labrador.htm
+	- NLPNP
+		- https://immigrant.today/canada/11952-nlpnp.htm
+- ### New Brunswick (Atlantic Canada, Киты)
+	- https://www.welcomenb.ca/content/wel-bien/en.html
+	- Описание
+		- https://immigrant.today/canada/16413-new-brunswick.htm
+	- NBPNP
+		- https://immigrant.today/canada/11877-nbpnp.htm
+	- Ярмарки
+		- https://www.welcomenb.ca/content/wel-bien/en/recruitment_events.html
+	- Jobs
+		- https://www.nbjobs.ca/
+	- 
+
+# Programs
+- https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html
+- Федеральные
+	- Express Entry
+		- https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html
+- Провинциальные
+	- https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html
+- Региональные
+	- Atlantic Immigration Program (AIP) (Атлантическая программа иммиграции)
+		- https://pfc-cms-portal.powerappsportals.com/en-US/atlantic-customer-registration/?lang=English
+		- https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration.html
+		- before
+			- need to have your Client ID Number/Unique Client Identifier (UCI)
+				- https://services3.cic.gc.ca/ecas/redir.do?lang=en&redir=id_num
+			- IRCC or Permanent Resident Visa
+	- Программа иммиграции в сельские и северные районы Канады
+	- Иммиграция в Альберту по сельскому потоку
+	- New Brunswick Skilled Worker Stream
+		- https://www.welcomenb.ca/content/wel-bien/en/immigrating/content/HowToImmigrate/NBProvincialNomineeProgram.html
+	- Quebec-selected skilled workers
+		- https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers.html
+
+# NOC
+- https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html
+- https://noc.esdc.gc.ca/
+- TEER
+	- TEER 0
+		- Management occupations
+			- Advertising, marketing and public relations managers
+			- Financial managers
+	- TEER 1
+		- Occupations that usually require a university degree
+			- Financial advisors
+			-  Software engineers
+	- TEER 2
+		- Occupations that usually require 
+			- college diploma
+			- training of 2 or more years
+			- supervisory occupations
+		- Computer network and web technicians
+		-  Medical laboratory technologists
+	- TEER 3
+		- Occupations that usually require
+			- college diploma
+			- training of less than 2 years
+			- more than 6 months of on-the-job training
+		- Bakers
+		- Dental assistants and dental laboratory assistants
+	- TEER 4
+		- Occupations that usually require
+			- a high school diploma, or
+			- several weeks of on-the-job training
+		- Home child care providers
+		- Retail salespersons and visual merchandisers
+	- TEER 5
+		- Occupations that usually need 
+			- short-term work demonstration 
+			- no formal education
+		- Landscaping and grounds maintenance labourers
+		-  Delivery service drivers and door-to-door distributors 
+- NOC
+	- Network
+		- TEER 2
+			- Computer network and web technicians
+				- 22220
+				- Local area network (LAN) technician
+				- Local area network (LAN) administrator
+				- Network administrator
+				- Network security administrator
+				- Wide area network (WAN) administrator
+			-  Telecommunications equipment installation and cable television service technicians 
+				- 72205
+				- Switched networks installer
+				- Switched network repairer
+		- TEER 1
+			- Computer engineers 
+				- 21311
+				- Network support engineer
+				- Network infrastructure engineer
+				- Network specialist - computer systems
+				- Network designer - computer systems
+				- Network architect - computer systems
+				- Fibre-optic network designer
+		- TEER 0
+			- Computer and information systems managers
+				- 20012
+				- Computer networks manager
+				- Network design manager
+	- Security
+		- TEER 1
+			- Cybersecurity specialists
+				- 21220
+				- Network security analyst
+				- Network security engineer
+			- Information systems specialists
+				- 21222
+	- Developer
+		- TEER 1
+			- Computer systems developers and programmers
+				- 21230
+			- Software developers and programmers
+				- 21232
+			- Web developers and programmers
+				- 21234
+	- Electrical technicians
+		- Electrical and electronics engineering technologists and technicians
+			- 22310
+			- Electrical network engineer
+		- Electricians (except industrial and power system)
+			- 72200
+		- Industrial electricians
+			- 72201
+		- Power system electricians
+			- 72202
+		- Electrical power line and cable workers
+			- 72203
+# Education
+- Университеты и стоимость
+	- https://immigrant.today/files/pathway_partners.pdf
+	- ~2,5 млн. руб за обучение + переезд
+		- https://immigrant.today/canada/19417-study-in-canada.htm
+	- NBCC (New Brunswick Community College)
+		- https://nbcc.ca/programs-courses/full-time-programs
+		- https://apply.nbcc.ca/psc/NBCCCPRD/ONLINEAPP/SA/c/CTF_MENU.CTF_C_SIGNON.GBL?Page=CTF_C_SIGNON&Action=U&CTF_ID=NBCC_INTL&
+	- Manitoba Institute of Trades and Technology(MITT)
+		- https://mitt.ca/programs/post-secondary-programs?studyoptionname=Post+Secondary&IsSearch=True&aoi=1115&regiontypeid=1&chkstudytypes=90&chkstudytypes=83
+		- https://mitt.ca/admissions/how-to-apply-international-students
+	- Holland College
+	- College of New Caledonia
+		- Information Technology and Networking Diploma
+			- https://cnc.bc.ca/programs-courses/programs/detail/information-technology-and-networking-diploma
+	- ILAC
+		- https://www.ilac.com/adult-online-application/
+		- Cost
+			- 400$ on week
+			- 180$ online
+
+# Immigrate
+- Create account
+	- https://prson-srpel.apps.cic.gc.ca/en/signup
+- IRCC
+	- https://www.canada.ca/en/immigration-refugees-citizenship/services/application/register.html
+- SIN (ИНН)
+	- https://www.canada.ca/en/employment-social-development/services/sin.html
+- Docs
+	- birth certificate
+	- passport
+	- marriage or divorce certificate
+	- adoption records for adopted children
+	- educational diplomas and certificates
+		- Obtain letters of reference from yourpast employers
+	- official vaccination records
+	- medical records (prescriptions, test results, x-rays, allergies, etc.,) and dental records
+	- driver’s licence and/or International Driving Permit (IDP)
+- Prepare for life in Canada
+	- https://telegra.ph/CHasto-zadavaemye-voprosy-po-Kanade-01-26
+	- https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada.html
+	- https://www.planningforcanada.ca/
+	- https://nextstopcanada.ca/
+	- plan your move to Canada
+		- Provinces and territories
+			- https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/provinces-territories.html
+		- Choose a city
+			- https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/choose-city.html
+		- Prepare financially
+			- https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/prepare-financially.html
+- Prepare to work in Canada
+	- https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/prepare-work.html
+- Welcome to Canada guide
+	- https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/publication-welcome-canada-what-you-should-know.html
+	- https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/pub/welcome.pdf
+- Look for jobs in Canada
+	- https://www.jobbank.gc.ca/findajob/newcomers
+	- https://www.jobbank.gc.ca/trouverunemploi/candidats-etrangers
+	- https://emploisfp-psjobs.cfp-psc.gc.ca/psrs-srfp/applicant/page2440
+- Preparing for an interview
+	- https://www.jobbank.gc.ca/findajob/resources/prepare-for-interview
+	- https://www.canada.ca/en/immigration-refugees-citizenship/news/video/save-time-send-complete-application.html
+- Find free newcomer services near you
+	- https://ircc.canada.ca/english/newcomers/services/index.asp
+## Company for immigrate
+- https://immigrant.today/canada/21170-career.htm
+# Work
+- Jobs Canada Fair
+	- https://www.eventbrite.ca/d/canada/job-fairs/
+	- https://www.jobscanadafair.com/
+- Work for foreigner
+	- https://www.jobbank.gc.ca/trouverunemploi/candidats-etrangers
+		- https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=Network+security&locationstring=&sort=M

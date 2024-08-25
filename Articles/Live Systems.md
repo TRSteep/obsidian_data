@@ -1,0 +1,106 @@
+#os #nix #boot 
+# Diagnostics
+- Hiren’s BootCD PE x64 (v1.0.2)
+	- https://www.hirensbootcd.org/download/
+	- Hard Disk Tools
+		- Data Recovery
+			- Recuva v1.53.0.1087
+			- PhotoRec v7.2
+		- Defrag
+		- Diagnostic
+			- HDDScan v4.1
+			- Crystal Disk Info v8.12.2
+			- Test Disk v7.2
+		- Imaging
+			- Acronis TrueImage 2021 build 39216
+			- AOMEI Backupper v6.5.1
+			- Macrium Reflect PE v7.3.5925
+		- Partition Tools
+			- AOMEI Partition Assistant v9.2.1
+			- EaseUS Partition Master v14.5
+	- Security
+		- HDD Low Level Format Tool v4.40
+		- Eraser v6.2
+	- Windows Recovery
+		- Lazesoft Windows Recovery v4.0.0.1
+	- BCD-MBR Tools
+		- EasyBCD v2.3
+		- BootIce v1.3.3
+	- Security
+		- AntiVirus
+			- Malwarebytes Anti-Malware v2.2.1.1043
+			- McAfee Stinger v12.2.0.268
+			- Kaspersky Virus Removal Tool
+		- KeyFinders
+		- Passwords
+			- Lazesoft Password Recovery v4.0.0.1
+			- NT Password Edit v0.7
+			- Windows Login Unlocker v1.6
+	- System Tools
+		- CPU-Z v1.96
+		- GPU-Z v2.40
+		- HWInfo v7.04-4480
+		- Speccy v1.32.774
+	- Network
+		- Acrylic Wi-Fi Home v4.5.7802
+	- Other Tools
+- Win PE от Sergei Strelec
+	- https://sergeistrelec.name/winpe-10-8-sergei-strelec-english/
+		- Password for archive:  strelec
+	- https://www.majorgeeks.com/files/details/sergei_strelecs_winpe.html
+	- data recovery
+		- R-Studio 8.7, Active File Recovery, Active Partition Recovery, Runtime GetDataBack for NTFS, Runtime GetDataBack for FAT, DM Disk Editor and Data Recovery, UFS Explorer Professional Recovery, Hetman Partition Recovery, Eassos Recovery, EaseUS Data Recovery Wizard, and Ontrack EasyRecovery
+- Bob.Omb's Modified Win10PEx64
+	- https://www.aioboot.com/en/bob-ombs-modified-win10pex64/
+	- AIDA64 Extreme
+	- Acrylic Wi-Fi Pro
+	- Disk2VHD
+	- EaseUS Data Recovery
+	- EaseUS Partition Master
+- ultimatebootcd ( 2020-08-19)
+	- https://www.ultimatebootcd.com/
+	- MediCat USB (22Gb)
+		- https://gbatemp.net/threads/medicat-usb-a-multiboot-linux-usb-for-pc-repair.361577/
+			- All in One – System Rescue Toolkit
+				- https://paul.is-a-geek.org/aio-srt/
+				- Windows Startup
+				- System File Checker
+				- DISM System Repair
+				- Registry Editor
+				- Repair Explorer Icons
+				- Windows Reliability Monitor
+				- Blue Screen View
+				- System Restore
+				- Windows Update Repair
+				- Disk Cleanup
+		- Hard Disk Tools:
+			- Acronis TrueImage 2017
+			- GParted
+			- Norton Ghost 11.5
+			- Paragon Hard Disk Manager
+			- PloP Boot Manager
+		- Diagnostic Utilities
+			- Hardware Detection Tool Memtest86+
+			- TestDisk 
+			- PhotoRec
+			- LiliPad
+		- Scan for Viruses: 
+			- Comodo Rescue Disk
+		- Remove User Account Passwords
+			- Active Password Changer
+			- Daossoft Windows Password Rescuer
+			- Offline NT Password & Registry Editor
+			- PCUnlocker, Boot Kon-Boot CD
+		- 64-Bit windows Recovery
+- Gandalf’s Windows 10PE
+	- https://windowsmatters.com/
+		- no download
+	- https://filecr.com/windows/gandalfs-windows-10/?id=264337000000
+		- 123
+	- 
+- Kyhi's Recovery Drive 
+	- https://www.tenforums.com/software-apps/27180-windows-10-recovery-tools-bootable-rescue-disk.html
+	- https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media.html
+	- 
+- Список отдельны утилит
+	- https://ruterk.com/vse-obrazy-avarijno-zagruzochnyx-cd-dvd-usb-diskov/

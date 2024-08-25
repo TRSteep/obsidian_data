@@ -1,0 +1,20 @@
+#education 
+- ### Казахстан
+	- https://ielts.kz/
+		- https://ielts.kz/registracija/spisok-registracionnyh-centrov-ielts/
+	- Актобе
+		- RONALYN ENGLISH ACADEMY|IELTS CENTRE	
+			- Маресьева 95 Б
+			- +7 (701) 084 77 97
+			- +7(701) 674 37 42
+	- Алматы
+		- InterPress-IH
+			- ул. Курмангазы, 33 (уг. ул. Фурманова)
+			- +7 727 339 02 91
+		- IELTS Academic
+			- 77000 KZT
+	- Астана
+		- InterPress-IH
+			- ул. Кажымукана, 12а (уг. ул. Мирзояна)
+			- +7 7172 72 55 20
+			- +7 7172 72 55 10

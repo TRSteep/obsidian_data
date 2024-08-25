@@ -1,0 +1,24 @@
+#arduino #dev 
+
+- Библиотеки
+	- https://github.com/GyverLibs
+		- Датчики:
+			- HTU21D
+				- https://github.com/GyverLibs/GyverHTU21D
+			- BME280
+				- https://github.com/GyverLibs/GyverBME280
+			- DS18B20
+				- https://github.com/GyverLibs/microDS18B20
+		- Железки ввод:
+			- Панель управления для esp8266, esp32
+				- https://github.com/GyverLibs/GyverHub
+			- EncButton
+				- https://github.com/GyverLibs/EncButton
+				- лёгкая библиотека для энкодера и/или кнопки с огромным количеством возможностей
+		- Железки вывод:
+		- Дисплеи:
+			- GyverOLED
+				- https://github.com/GyverLibs/GyverOLED
+	- https://alexgyver.ru/lessons/arduino-libraries/
+	- OneButton Library
+		- https://github.com/mathertel/OneButton

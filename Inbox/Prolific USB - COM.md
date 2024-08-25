@@ -1,0 +1,55 @@
+#harware 
+
+- ## Original
+	- ### Drivers
+		- https://www.ifamilysoftware.com/Prolific_PL-2303_Code_10_Fix.html
+		- https://www.prolific.com.tw/US/ShowProduct.aspx?pcid=41&showlevel=0017-0037-0041
+	- ### Search tool
+		- https://github.com/johnstevenson/pl2303-legacy
+	- Spec
+		- https://www.mpja.com/download/pl2303HXrevA_v1.6.pdf
+	- ### Roll to An Older Version
+		- Right-click on your PC Start button and open Device Manager
+		- Double click LPT and COM ports then locate the Prolific USB to Serial Driver and right-click it so you can select Update Driver
+		- For driver software click My computer
+			- ![|300](click-my-computer.avif)
+		- From My computer select "Let me pick from a list of drivers available"
+			- ![|400](let-me-pick-from.avif)
+		- Choose an older version from the list then click Next
+			- ![|400](choose-an-old-version.avif)
+		- The driver you selected will be installed automatically
+		- Once it has been downloaded reconnect the driver to see if it works.
+- ## China
+	- counterfeit (fake) PL-2303HX (Chip Rev A) USB to Serial Controller ICs
+		- Y-105 USB to Serial Converter
+			- Tech-Top Technology Ltd. 
+			- https://www.unitek-products.com/pages/drivers-adapters
+		- Plugable USB to RS-232 DB9 Serial Adapter (PL-2303HX Rev D chipset)
+			- Plugable Technologies (USA & UK Direct)
+			- https://plugable.com/pages/prolific-drivers
+		- FB1210 USB to 1-port RS-232 Adapter
+			- Good Way Technology Co., Ltd. (Taiwan)
+			- https://www.goodway.com.tw/product/usb-cable-adapters NO DRV
+	- test drivers
+		- https://www.drvsky.com/driver/Prolific_USB_Serial_Converter.htm
+		- https://oemdrivers.com/usb-bafo-bf-810
+		- https://oemdrivers.com/usb-prolific-usb-to-serial-driver
+		- https://oemdrivers.com/usb-bytecc-bt-db925-driver
+		- https://oemdrivers.com/usb-ugreen-usb-20222
+		- https://driverscollection.com/Search/USB%5CVID_067B%26PID_2303
+			- not work
+		- https://blog.csdn.net/qq_40757221/article/details/115934665
+		- http://ict-kuwa.net/pl2303hx.html
+- ## Same problem
+	- https://www.minitool.com/news/pl2303-driver-windows-11.html
+		- ![|400](pl2303-driver-windows-11-1.png)
+		- Update USB to Serial Driver
+			- don't work with fake adapter
+		- Roll USB to Serial Driver Back
+			- Open Device Manager.
+			- Unfold Ports (COM & LPT) section.
+			- Find Prolific USB to Serial Comm Port, right-click on it, and select Properties.
+			- In the Properties window, go to the Driver tab, and click on Roll Back Driver.
+			- It will prompt asking for the reason. Just pick one reason and click Yes.
+			- ![|400](pl2303-driver-windows-11-3.png)
+	- https://www.thewindowsclub.com/how-to-install-pl2303-prolific-driver-on-windows-11

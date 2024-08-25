@@ -1,0 +1,137 @@
+#hardware #bike 
+
+### Таблица запастей и замен
+- https://docs.google.com/spreadsheets/d/1M5Zb1toh6FjgmOO2x5-uB0ZQKrTO83JFeG2NytqJOdw/edit#gid=0
+- [Замена вилки на воздушную](obsidian://open?vault=Obsidian%20Vault&file=Inbox%2F%D0%92%D0%B8%D0%BB%D0%BA%D0%B0%20%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0)
+
+- ## Оригинал
+	- https://www.norco.com/bike-archives/2011/bushpilot/ 14.83 кг
+	- ### Колеса 26"
+		- DDM-1 double wall alloyа 32 hole
+		- Шина, Покрышка (Tires)
+			- Innova MTB 26" x 1.95
+			- Kenda K831 26" x 1.95
+		- Камера
+		- Hubs
+			- Formula alloy, 8 sp cassette with disc mount
+		- Spokes
+			- Stainless steel 2.0
+		- Rims (Обода)
+			- WTB SX-24 disc double wall black 32h
+			- Weinemann 32H, двойные стенки 
+	- ### Drivetrain
+		- Цепь (Chain)
+			- KMC Z-72
+		- Crank (Передняя звезда)
+			- Shimano FC-151, 42/32/22T black alloy
+			- Shimano Altus FC-M171 42/34/24T black
+		- Bottom Bracket (каретка)
+			- CH-52 cartridge SHIMANO BB
+			- **FSA BB-7420ST** Cartridge 68x110 мм (**68x113**)
+				- под квадрат
+				- Длина вала: 113
+				- Ширина каретки: 68
+				- Тип резьбы на каретке: BSA
+		- Front Derailleur (Передний переключатель)
+			- Shimano Acera FDM-310 31.8
+			- Shimano **Altus FD-M190**
+				- 3 скорости
+		- Rear Derailleur (Задний переключатель)
+			- Shimano Alivio RD-M410 8 speed
+			- Shimano **Alivio RD-M430** - Black
+				- 8 скоростей
+		- Shifters (манетки)
+			- Shimano ST-EF60 EZ-Fire, 8 speed front and rear
+			- Shimano **Altus SL-M310** 24speed black
+		- Педали Pedals
+			- Resin body w/steel cage - Black
+		- Cassette (Кассета задняя)
+			- Shimano CS-HG30 11-32T 8speed
+	- ### Components
+		- Brakeset (тормоза)
+			- Avid BB5 от SRAM
+			- Hayes MX-4, 6” rotor
+		- Handlebar
+			- MTB 30 mm rise bar , sand blast black
+		- Saddle
+			- Norco MTB saddle, custom cover design
+		- Seatpost
+			- Kalloy micro adjust 27.2 mm
+		- Stem
+			- MTB alloy threadless 1-1/8 stem
+		- Grips
+			- MTB design krayton rubber
+		- Headset
+			- CH 918 semi integrated threadless
+	- ### Frameset
+		- Frame (Рама)
+			- Double butted 6061 alloy frame
+			- Aluminum with custom tube shapes, semi integrated headtube
+		- Вилка (Fork)
+			- **SR Suntour XCM 100 mm** travel
+				- https://sunrussia.ru/vilka-suntour-sf18-xce-p-26-xod-100-mm
+				- Шток прямой
+					- Длина штока - 21 см
+					- Стальной - 1 1/8" безрезьбовой
+					- 28.6 х 255 мм
+					- дропаут 9-100 мм
+				- Ход - 100мм
+				- Крепления - Ви-брейки и дисковые
+				- Наличие якоря - присутсвует
+				- Пружина - 2 стальных пружины
+		- Руль
+			- Алюминий, 25,4мм, подъем 30мм 
+			- Рулевая колонка: СН-918
+			- Грипсы: Krayton MTB 
+
+## Переход на односкостной
+- Info
+	- https://www.velograd.ru/usefull/perekhod-s-3x-zvezd-speredi-na-1/
+	- https://velo.gravelo.ru/kolichestvo-skorostej/
+	- https://gravelo.ru/gravel-sistema/
+	- https://gravelo.ru/gravel-kasseta/
+	- https://www.drive2.ru/b/526586356185434227/
+	- Калькулятор
+- Системы
+	- Одназвезда спереди
+		- 1×9 - базовый уровень (и ниже)
+		- 1x10 - современный уровень
+		- 1x11 - системы высокого уровня (и выше)
+		- Передняя звезда
+			- 30 зуб.
+			- 32 зуб.
+				- https://shimano-russia.ru/zvezda-perednjaja-shimano-fc-m670-32t-ae-y1n998050
+				- https://citycycle.ru/detail/sistema_shimano_deore_mt510_1_32.html
+			- 34 зуб. как на норко 2я
+			- 36 зуб.
+			- 38 зуб.
+		- Задняя звезда
+			- 8-9 скоростные переключатели имеют поддержку больших звезд с не более чем 34-36 зубцами
+			- оптимально иметь на 42 зуба, но тогда вероятно нужен переходник
+			- 10 скор.
+				- https://shimano-russia.ru/kasseta-shimano-hg500-10sk-11-32-icshg50010132
+				- https://shimano-russia.ru/kasseta-shimano-deore-m4100-10-skorostej-11-42t-ecsm410010142
+				- https://citycycle.ru/detail/kasseta_sunrace_csms3_10_skorostey_11_42.html
+	- Две звезды спереди
+		- Передняя
+			- 46/24 - более тяговитый
+			- 46/30
+			- 50/30 - более скоростной
+	- Три звезды спереди
+		- Norco Bushpilot
+			- 42/34/24
+		- 46/36/24
+		- 48/36/26
+		- 50/39/30
+
+## Переход на электромотор
+### Системы
+- В переднем колесе
+	- Дешево, но нагрузка на вилку
+- В заднем
+	- Средняя цена, но неудобство с цепью
+- В коретке
+	- Самая дорогая, но эффективная
+	- Наборы
+		- https://5kwt.ru/catalog/nabory-dlya-elektrifikatsii/karetochnye-nabory/
+		- https://www.ozon.ru/category/velosipedy-ekipirovka-i-zapchasti-11001/?deny_category_prediction=true&from_global=true&text=%D0%BA%D0%B0%D1%80%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%D0%BC%D0%BE%D1%82%D0%BE%D1%80+%D0%B4%D0%BB%D1%8F+%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0&type=318488

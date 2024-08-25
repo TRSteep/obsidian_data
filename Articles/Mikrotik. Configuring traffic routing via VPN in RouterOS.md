@@ -1,0 +1,29 @@
+#mikrotik #routeos 
+
+- Создать список хостов
+	- IP—>Firewall—>Address List
+	- `/ip firewall address-list`
+	- Например, spotify
+		- `add address=104.154.127.47 list=spotify`
+		- `add address=78.31.8.0/21 list=spotify`
+- Создаём правило маркировки трафика
+	- IP—>Firewall—>Mangle
+	- `/ip firewall mangle`
+	- Маркировка трафика
+		- `add action=mark-routing \`
+		- `chain=prerouting \`
+		- `comment="Mark Spotify" \`
+		- `dst-address-list=spotify \`
+		- `new-routing-mark=mark_vpn \`
+		- `passthrough=no \` в другом мануале `yes`
+		- `src-address=10.0.0.0/24`
+	- все обращения к хостам из списка `spotify` (`dst-address-list=spotify`) и довляем к ним метку `mark_vpn` (`new-routing-mark=mark_vpn`). `src-address=10.0.0.0/24` указан для маршрутизации обращений из нашей локальной сети, возможно у вас другие диапазоны, например `192.168.0.0/24`, тогда нужно исправить.
+	- Для названия метки я выбрал `mark_vpn`, это нужно для универсальности. В дальнейшем, когда появятся другие листы адресов, для них не придется создавать отдельные правила
+- Настраиваем маршрутизацию маркированных пакетов
+	- IP—>Routes
+	- `/ip route`
+		- `add distance=1 gateway=ether1 routing-mark=mark_vpn`
+	- В другом мануале используется NAT
+		- `/ip firewall nat`
+		- обрабатывает только пакеты которые помечены специальной меткой routing-mark=mark_vpn
+			- `add action=masquerade chain=srcnat out-interface=vpn-digitalocean routing-mark=mark_vpn`

@@ -1,0 +1,30 @@
+#dev
+- info
+	- https://github.com/codemirror/codemirror5/tree/5.58.2/mode
+- Plugin
+	- https://github.com/deathau/cm-editor-syntax-highlight-obsidian
+	- Cisco migrate
+		- https://github.com/philbedard/vscode-cisco-xr-syntax
+- Command
+	- bash
+	- shell
+	- powershell
+- Programming
+	- c
+	- d
+	- r
+	- q
+	- python
+	- swift
+- Web
+	- php
+	- css
+	- js
+- Base
+	- sql
+- Script
+	- xquery
+- Format
+	- xml
+	- yaml
+	- dockerfile

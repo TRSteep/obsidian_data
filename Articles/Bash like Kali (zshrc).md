@@ -1,0 +1,21 @@
+#bash #debian #shell 
+- Info
+	- https://cloudlinuxtech.com/zsh-syntax-highlighting-autosuggestions/
+- `sudo apt update`
+- `sudo apt install zsh`
+- Plugin (hightlight, autosuggest)
+	- `sudo apt install zsh-syntax-highlighting zsh-autosuggestions`
+- Fonts (monospace) - for GUI only
+	- `sudo apt install qterminal fonts-firacode gnome-tweaks`
+- Changing the default login shell
+	- `chsh -s /bin/zsh`
+- color schemes and themes
+	- `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+- tweak the zshrc (???)
+	- `rm ~/.zshrc`
+	- `touch ~/.zshrc`
+	- `nano .zshrc`
+- Plugins (???)
+	- https://github.com/zplug/zplug
+	- `apt install curl`
+	- `curl -sL --proto-redir -all,https https://raw.githubusercontent.com/zplug/installer/master/installer.zsh | zsh`
