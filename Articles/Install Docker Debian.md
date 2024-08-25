@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #docker #linux #debian 
 # Initial Server
 

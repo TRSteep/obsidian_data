@@ -1,4 +1,4 @@
-#wot 
+#wot #games
 
 Access
 ```

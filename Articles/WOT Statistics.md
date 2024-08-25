@@ -1,4 +1,4 @@
-#wot
+#wot #games 
 - Танки
 	- https://tomato.gg/tanks
 		- Лучший танк

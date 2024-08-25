@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#virtual #hypervisor #os #iso #xen 
-=======
 #virtual #hypervisor #os #iso
 >>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 ### Info

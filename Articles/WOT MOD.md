@@ -1,2 +1,2 @@
-#wot
+#wot #games 
 - https://tomato.gg

@@ -1,4 +1,4 @@
-#ai
+#ai #list 
 
 # AI Talk
 локальный ChatGPT

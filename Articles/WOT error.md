@@ -1,4 +1,4 @@
-#wot 
+#wot #games 
 - https://eu.wargaming.net/support/ru/products/wot/article/16143/
 - https://eu.wargaming.net/support/ru/products/wot/article/34935/
 	- 3 типа решения
