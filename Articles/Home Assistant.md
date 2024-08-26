@@ -1,4 +1,5 @@
-#smarthouse 
+#smarthouse #software 
+
 ## Установка Home Assistant
 - [Установка OS](obsidian://open?vault=Obsidian%20Vault&file=Raspberry%20Pi)
 - **Choose OS**

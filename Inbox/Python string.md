@@ -1,3 +1,4 @@
+#python #dev 
 
 Эффективные методы удаления символов в строках Python
 - https://www.machinet.net/tutorial-ru/efficient-methods-to-delete-characters-in-python-strings

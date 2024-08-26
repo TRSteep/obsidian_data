@@ -1,5 +1,4 @@
 #virtual #hypervisor #os #iso
->>>>>>> f7fc09926f4955998d32623ae7f435fd4becc1d7
 ### Info
 - https://habr.com/ru/articles/599213/
 - https://ittraveler.org/ustanovka-i-nastrojka-citrix-xenserver-chast-1/

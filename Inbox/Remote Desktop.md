@@ -1,4 +1,4 @@
-#software 
+#software #list 
 
 # Info
 - https://okocrm.com/blog/analogi-teamviewer/

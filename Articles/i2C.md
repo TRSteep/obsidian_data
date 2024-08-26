@@ -1,4 +1,4 @@
-#dev #hardware
+#dev #hardware #diy 
 - Устройства
 	- один master
 	- несколько slave-устройств

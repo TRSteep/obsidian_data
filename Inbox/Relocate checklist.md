@@ -1,4 +1,5 @@
-#relocation 
+#relocation #list 
+
 # Список критериев
 
 ## Как составить

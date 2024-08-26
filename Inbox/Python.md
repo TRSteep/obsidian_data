@@ -1,4 +1,5 @@
-#networkchuck #education #watchthis 
+#networkchuck #education #watchthis #python 
+
 # Enviroment
 - Install App
 	- `python -m venv venv`
