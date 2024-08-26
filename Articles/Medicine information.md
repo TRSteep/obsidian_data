@@ -1,4 +1,5 @@
 #med #mediine #медцина
+
 - Lists
 	- https://journal.tinkoff.ru/list/medical-evidence/
 - Государственный реестр лекарственных препаратов

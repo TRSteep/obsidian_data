@@ -1,4 +1,5 @@
 #doh #dns
+
 # Technology
 - ### DNS Crypt (DNSSEC)
 	- uses its unique protocol for encryption

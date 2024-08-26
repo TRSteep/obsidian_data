@@ -1,0 +1,23 @@
+#hardware #arduino 
+
+- ESP-NOW
+	- Start with ESP-NOW
+		- https://gndtovcc.home.blog/2020/04/12/lets-start-with-esp-now-esp8266-nodemcu-with-arduino-ide/
+	- Introducing ESP-NOW
+		- https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/
+		- https://randomnerdtutorials.com/esp-now-esp8266-nodemcu-arduino-ide/
+	- Receive Data from Multiple Boards (many-to-one)
+		- https://randomnerdtutorials.com/esp-now-many-to-one-esp32/
+	- Two-Way Communication Between ESP
+		- https://randomnerdtutorials.com/esp-now-two-way-communication-esp32/
+		- https://randomnerdtutorials.com/esp-now-two-way-communication-esp8266-nodemcu/
+		- https://voltiq.ru/esp-now-two-way-communication-esp8266-nodemcu/
+	- Web Server Sensor Dashboard (ESP-NOW + Wi-Fi)
+		- https://randomnerdtutorials.com/esp32-esp-now-wi-fi-web-server/
+		- Лучший вариант для нас
+	- ESP-NOW to WiFi Gateway for ESP8266
+		- https://salvatorelab.com/2023/02/esp-now-to-wifi-gateway-for-esp8266/
+	- Auto-pairing for ESP32/ESP8266 with Bidirectional Communication and Web Server
+		- https://randomnerdtutorials.com/esp-now-auto-pairing-esp32-esp8266/
+	- Web
+		- https://github.com/itead/ITEADLIB_Arduino_WeeESP8266/tree/master/examples

@@ -1,4 +1,5 @@
-#os #nix #boot 
+#os #nix #boot #list 
+
 # Diagnostics
 - Hiren’s BootCD PE x64 (v1.0.2)
 	- https://www.hirensbootcd.org/download/

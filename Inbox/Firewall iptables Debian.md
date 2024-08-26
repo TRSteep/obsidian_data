@@ -1,4 +1,5 @@
 #debian #firewall #linux #security  #iptables
+
 В debian 12 фаервол iptables вшит в ядро и в отличие от предыдущих debian не имеет статуса службы
 
 # Check rules
