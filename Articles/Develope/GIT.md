@@ -98,3 +98,7 @@ download/
 	- `git rm -r --cached .`
 		-  `git rm -r --cached . -f`
 		- удаление всего кеша
+
+---
+## Visual GIT
+- Visualizing branch topology in Git

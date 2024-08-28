@@ -1,4 +1,5 @@
 #mikrotik #vlan 
+
 ## 802.1q
 - Access (Untagged)
 	- порт транслирует только один VLAN

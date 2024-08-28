@@ -2,6 +2,7 @@ How to sync Obsidian with Git on Android
 # Info
 - https://renerocks.ai/blog/obsidian-encrypted-github-android/
 - https://gist.github.com/Makeshift/43c7ecb3f1c28a623ea4386552712114
+- https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429
 
 # Prepare
 - Software
@@ -9,6 +10,7 @@ How to sync Obsidian with Git on Android
 		- https://git-scm.com/download/win
 	- Plugin for Obsidian
 		- Obsidian Git
+			- https://github.com/Vinzent03/obsidian-git/releases
 	- ? Gpg4win
 		- https://gpg4win.org/download.html
 	- git-crypt
@@ -20,6 +22,11 @@ How to sync Obsidian with Git on Android
 		- https://wiki.termux.com/wiki/Termux:Widget
 
 ## Configure software
+### GitHub
+- https://github.com/settings/tokens/new
+	- Add all Repo
+- Address with token
+	- `https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPO>.git`
 ### Windows
 
 ### Phone
