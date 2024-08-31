@@ -1,6 +1,7 @@
 How to sync Obsidian with Git on Android
 # Info
 - https://renerocks.ai/blog/obsidian-encrypted-github-android/
+	- не закончил по мануалу
 - https://gist.github.com/Makeshift/43c7ecb3f1c28a623ea4386552712114
 - https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429
 
@@ -20,6 +21,7 @@ How to sync Obsidian with Git on Android
 		- https://f-droid.org/packages/com.termux/
 	- termux:widget for Android
 		- https://wiki.termux.com/wiki/Termux:Widget
+		- Termux plugin app to run scripts in Termux with launcher shortcuts and widgets
 
 ## Configure software
 ### GitHub
