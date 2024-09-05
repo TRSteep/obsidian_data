@@ -2,7 +2,7 @@
 
 Software Distribution and Building Platform for Windows
 Analogs
-- [Installation system for windows](Installation%20system%20for%20windows.md)
+- [Package Manager for windows](Package%20Manager%20for%20windows.md)
 
 # Installation
 - Download the installer:
